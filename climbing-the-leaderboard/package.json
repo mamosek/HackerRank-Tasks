@@ -1,0 +1,14 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "description": "Hacker Rank tasks",
+  "main": "climbing-the-leaderboard.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
